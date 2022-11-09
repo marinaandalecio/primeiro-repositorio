@@ -1,0 +1,1 @@
+Arquivo que criei para testar a inclusão de um arquivo pelo servidor local e enviá-lo para o GitHub.
